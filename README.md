@@ -1,4 +1,4 @@
-# UFO Sightings : Expanding Filtering Capability of Interractive Web UFO Sighting Table
+## UFO Sightings : Expanding Filtering Capability of Interractive Web UFO Sighting Table
 ### Increasing Functionality of Database Data Filtering Using Javascript and HTML 
 The purpose of this project is to provide expanded filtering capacity of a provided database of UFO sightings. The ultimate deliverable is an interractive table hosted on an html website that allows website visitors to filter through the database using multiple criteria and execute a very pointed search. We're adding 4 additional filter criteria to the original "date" criteria; city, state, country, and shape.
 
